@@ -1,0 +1,5 @@
+public/
+resources/_gen/
+themes/nightfall/*
+!themes/nightfall/.gitkeep
+.hugo_build.lock
